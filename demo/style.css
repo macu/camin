@@ -1,0 +1,7 @@
+canvas {
+	border: thin solid gray;
+}
+
+#input {
+	cursor: crosshair;
+}
